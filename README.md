@@ -24,6 +24,26 @@
 
 官网:<https://www.jetbrains.com/>
 
+主题:`Light Carbon`
+
+插件:
+
+- .ignore
+- alibaba-java-coding-guideline
+- CamelCase
+- Carbon Theme
+- codehelper.generator
+- Cyan Light Theme
+- GenerateAllSetter
+- Gray Theme
+- GsonFormat
+- JSON Viewer
+- Lombok
+- POJO to JSON
+- SQL Formatter
+- Translation
+- Vue.js
+
 高效的`java`开发环境
 
 ## Visual Studio
